@@ -14,7 +14,7 @@
 
 ## Nannini 
 
-- Espresso Classic 
+- Espresso Classica Tradizione
 - Espresso Arabica 
 
 ## New York 
