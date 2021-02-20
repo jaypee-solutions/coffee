@@ -9,6 +9,10 @@
 - Alte Liebe 
 - Espresso Bugisu
 
+## Danesi
+
+- Espresso Doppio
+
 ## montebera Prien am Chiemsee 
 - Guatemala 
 
@@ -19,7 +23,11 @@
 
 ## New York 
 
-- Espresso Extra 
+- Extra Espresso
+
+## Pellini 
+
+- Top Class 100% Arabica
 
 ## Röstperle Seeshaupt
 - Schlaflos am See
