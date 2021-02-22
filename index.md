@@ -10,6 +10,7 @@
 - Espresso Bar
 
 ## Cuxhavener Kaffeeröster
+
 - Alte Liebe 
 - Espresso Bugisu
 
@@ -34,6 +35,9 @@
 - Top Class 100% Arabica
 
 ## Röstperle Seeshaupt
+
 - Schlaflos am See
 
-##
+## [TEIKEI](https://teikeicoffee.org/) 
+
+- Espresso
