@@ -43,6 +43,10 @@
 
 - Top Class 100% Arabica
 
+## Regens Wagner
+
+- Organic Magnushof Gourmet 
+
 ## Röstperle Seeshaupt
 
 - Schlaflos am See
