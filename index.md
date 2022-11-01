@@ -9,6 +9,9 @@
 - Supremo
 - Espresso Bar
 
+## Cafésito (Ravensburg) Vertrieb über Feneberg
+
+
 ## Cuxhavener Kaffeeröster
 
 - Alte Liebe 
@@ -17,6 +20,11 @@
 ## Danesi
 
 - Espresso Doppio
+
+## Dinzler 
+
+- Espresso Brazil? ([ ] Frische Röstung probieren)
+- Espresso Venezia Organico
 
 ## Inselrösterei Spiekeroog [Backdeck](https://backdeck-spiekeroog.de)
 
